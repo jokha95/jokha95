@@ -1,0 +1,124 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "userse": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "Jokha",
+      "email": "jokhalhosni@gmail.com",
+      "id": 22
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
